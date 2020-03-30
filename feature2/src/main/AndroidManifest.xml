@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.multi_module_dagger_mvrx.feature2">
+</manifest>

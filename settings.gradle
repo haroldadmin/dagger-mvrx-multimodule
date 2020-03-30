@@ -1,0 +1,8 @@
+include ':base'
+include ':daggerutils'
+include ':vmfactories'
+include ':feature2'
+include ':feature1'
+include ':core'
+include ':app'
+rootProject.name = "multi-module-dagger-mvrx"
